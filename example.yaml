@@ -1,7 +1,7 @@
 esp8266:
   board: d1_mini
 
-# Enable logging
+# Enable logging j
 logger:
   # Disable serial logging
   baud_rate: 0
